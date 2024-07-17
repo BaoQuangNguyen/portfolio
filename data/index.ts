@@ -109,19 +109,22 @@ export const navItems = [
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
       name: "Noor Dibou",
-      title: "Web Developer at NCCHE",
+      title: "Web Developer @ NCCHE",
+      imgUrl: "/python.svg"
     },
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
       name: "Keesun Baik",
       title: "Senior Software Development Engineer at Microsoft",
+      imgUrl: "/next.svg"
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "I've known Bao for quite some time now. He mentioned that he would be attending a Software Engineering boot camp, and during this period... I would serve as his mentor. Bao is truly a fighter - he went from not knowing anything about coding to becoming a full stack developer. His success is due to his study/work ethic. He constantly studied, worked through problems, and asked me many questions to help his understanding. Based on his dedication and eagerness, I would highly recommend him for your team.",
       name: "Thomas Yee",
-      title: "Senior Software Development Engineer at Microsoft",
+      title: "Programmer Analyst @ SaskTel",
+      imgUrl: "/thomas.png",
     },
   ];
   

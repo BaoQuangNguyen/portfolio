@@ -24,11 +24,11 @@ const Hero = () => {
 
           <TextGenerateEffect 
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Hi, thanks for dropping by!"
           />
 
           <p className="text-center md:tracking-wder mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Bao, an aspiring Back-End Developer based in Florida.
+            I&apos;m Bao, an aspiring Back-End Developer based in Florida.
           </p>
 
           <a href="about">
