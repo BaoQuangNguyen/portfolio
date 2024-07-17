@@ -109,7 +109,7 @@ export const navItems = [
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
       name: "Noor Dibou",
-      title: "Director of AlphaStream Technologies",
+      title: "Web Developer at NCCHE",
     },
     {
       quote:
@@ -154,38 +154,24 @@ export const navItems = [
       id: 5,
       name: "javascript.",
       img: "/js.svg",
-      nameImg: "/dockerName.svg",
+      nameImg: "/js-text.svg",
     },
   ];
   
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: " General Assembly Software Engineering Immersive Fellow",
+      desc: "Successfully completed 450+ hours of expert-led instruction in JavaScript, Python, React, Express.js Django, Node.js, MongoDB, Postgresql, CSS and hands-on learning of full stack software development in the industry's most in demand technologies.",
       className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
+      thumbnail: "/GA.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "12+ Years of Customer Service Related Experience",
+      desc: "With over 12 years of diverse customer service experience, I have developed strong problem-solving and communication skills. I specialize in simplifying complex problems and finding efficient solutions. Throughout my career, I have worked with teams from different parts of the world, fostering an open-minded approach to tackling challenges.",
       className: "md:col-span-2",
-      thumbnail: "/exp2.svg",
-    },
-    {
-      id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2",
-      thumbnail: "/exp3.svg",
-    },
-    {
-      id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      thumbnail: "/handshake.svg",
     },
   ];
   
