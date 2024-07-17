@@ -180,15 +180,13 @@ export const navItems = [
   
   export const socialMedia = [
     {
-      id: 1,
+      id: "git",
       img: "/git.svg",
+      url: "https://github.com/BaoQuangNguyen",
     },
     {
-      id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
+      id: "linkedin",
       img: "/link.svg",
+      url: "https://www.linkedin.com/in/baoquangnguyen/",
     },
   ];
