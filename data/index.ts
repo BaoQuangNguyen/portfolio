@@ -110,14 +110,14 @@ export const navItems = [
         "To be updated",
       name: "Noor Dibou",
       title: "Web Developer @ NCCHE",
-      imgUrl: "/python.svg"
+      imgUrl: "/noor.png"
     },
     {
       quote:
         "To be updated",
       name: "Keesun Baik",
       title: "Senior Software Development Engineer at Microsoft",
-      imgUrl: "/next.svg"
+      imgUrl: "/keesun.png"
     },
     {
       quote:
@@ -167,7 +167,7 @@ export const navItems = [
       title: " General Assembly Software Engineering Immersive Fellow",
       desc: "Successfully completed 450+ hours of expert-led instruction in JavaScript, Python, React, Express.js Django, Node.js, MongoDB, Postgresql, CSS and hands-on learning of full stack software development in the industry's most in demand technologies.",
       className: "md:col-span-2",
-      thumbnail: "/GA.svg",
+      thumbnail: "/ga.svg",
     },
     {
       id: 2,
