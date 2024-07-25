@@ -107,16 +107,16 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "To be updated",
-      name: "Noor Dibou",
-      title: "Web Developer @ NCCHE",
-      imgUrl: "/noor.png"
+        "I’ve been following along Bao on his journey into software engineering, and it’s been amazing to see his quick growth over a short amount of time. It’s clear that he loves building things and I’m sure his ability to ask questions and problem solve through challenges will help him grow quickly as a software engineer.",
+      name: "Justin Luu",
+      title: "Software Engineer @ Simon Data",
+      imgUrl: "/justin.png"
     },
     {
       quote:
-        "To be updated",
+        "I am pleased to recommend Bao as a skilled JavaScript-based backend engineer. During our time together at his side projects, Bao consistently demonstrated expertise in building scalable server-side applications using JavaScript frameworks. He has great problem-solving and a keen ability to translate complex requirements into efficient solutions. His collaborative nature and strong communication skills make him an asset to any team and project. I am confident Bao would contribute effectively to your organization's technical initiatives.",
       name: "Keesun Baik",
-      title: "Senior Software Development Engineer at Microsoft",
+      title: "Senior Software Development Engineer @ Microsoft",
       imgUrl: "/keesun.png"
     },
     {

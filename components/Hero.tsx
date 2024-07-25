@@ -28,7 +28,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wder mb-4 text-sm md:text-lg lg:text-2xl">
-            I&apos;m Bao, an aspiring Back-End Developer based in Florida.
+            I&apos;m Bao, an aspiring Software Engineer based in Florida.
           </p>
 
           <a href="#about">
