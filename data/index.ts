@@ -72,11 +72,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Minesweeper | Solo Project",
-      des: "Puzzle game where the player tests their logic and deduction skills to strategically clear a grid of hidden mines!",
+      title: "FoodVision Mini | Solo Project",
+      des: "An EfficientNetB2 feature extractor computer vision model to classify images of food as pizza, steak or sushi.",
       img: "/p1.png",
-      iconLists: ["/js.svg", "/html-5.svg", "/css.svg"],
-      link: "https://github.com/BaoQuangNguyen/First-Project-Minesweeper",
+      iconLists: ["/gc.svg", "/pytorch.svg", "/gradio.svg", "/huggingface.svg"],
+      link: "https://colab.research.google.com/drive/1zulcxHOxV62pIIdZSAZaRZTxb3BzcwJO#scrollTo=ixzGGOlsdEWW",
     },
     {
       id: 2,
